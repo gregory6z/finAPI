@@ -17,5 +17,3 @@
     [] Não deve ser possível fazer saque em uma conta não existente
     [] Não deve ser possível excluir uma conta não existente
     [] Não deve ser possível fazer saque quando o saldo for insuficiente# finAPI
-# finAPI
-# finAPI
